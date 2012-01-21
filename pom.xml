@@ -31,7 +31,7 @@
 	<modules>
 		<module>module-1</module>
 		<module>module-2</module>
-		<module>module-4</module>
+		<module>module-5</module>
 	</modules>
 
 	<properties>
