@@ -9,7 +9,7 @@
 	<inceptionYear>2011</inceptionYear>
 
 	<description>
-		A large test project with various plugins bound to lifecycles to excercise Jenkin's Maven hooks.
+		A large test project with various plugins bound to the lifecycles to excercise Jenkin's Maven hooks.
 	</description>
 
 	<organization>
