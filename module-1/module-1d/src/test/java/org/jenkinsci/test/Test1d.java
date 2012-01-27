@@ -8,5 +8,6 @@ public class Test1d {
 	@Test
 	public void test() {
 		Assert.assertTrue(true);
+		System.out.println("Hello World - Maven Java - Module 1d !!");
 	}
 }
