@@ -8,6 +8,6 @@ public class Test1b {
 	@Test
 	public void test() {
 		Assert.assertTrue(true);
-		System.out.println("Hello World!!");
+		System.out.println("Hello World - Java!!");
 	}
 }
